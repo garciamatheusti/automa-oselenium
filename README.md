@@ -28,23 +28,6 @@ O sistema cria **perfis temporários de navegação**, abre múltiplas instânci
 
 ---
 
-## 🧠 Estrutura do Projeto
-
-AUTOMAÇÃO/
-│
-├── main.py # Ponto de entrada do sistema
-├── config.py # Configurações globais (URLs, tempos, paths)
-│
-├── utils/
-│ ├── drivers.py # Inicialização e controle do ChromeDriver
-│ ├── profiles.py # Criação e remoção de perfis temporários
-│ ├── loggers.py # Configuração de logs
-│
-├── README.md # Documentação do projeto
-└── requirements.txt # Dependências
-
----
-
 ## 🚀 Como Executar
 
 ### 1️⃣ Clonar o repositório
